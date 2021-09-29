@@ -18,7 +18,7 @@ This corpus contains a metadata-rich collection of fictional conversations extra
 					- gender (for 3,774 characters)
 					- position on movie credits (3,321 characters)
 
-3. task - try to use RNN and check the result
+3. task - tried to use seq2seq and multi-layer gated recurrent unit (GRU) RNN to get the output and check the result
 
 4. expected results - chatbot should be answerable
 
