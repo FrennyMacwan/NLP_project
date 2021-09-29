@@ -1,5 +1,5 @@
 # NLP_project
-1. goal & topic
+1. goal & topic -
 Creating a chatbot using Deep learning algorithm with movie subtitles 
 
 2. dataset from kaggle -  Cornell Movie-Dialog Corpus
